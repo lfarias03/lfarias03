@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @lfarias03
+- 👀 I’m interested in Frontend Web Development.
+- 🌱 I’m currently learning languages like HTML, CSS, JS, ANGULAR and some more.
+- 💞️ I’m looking to collaborate on great and creative projects.
